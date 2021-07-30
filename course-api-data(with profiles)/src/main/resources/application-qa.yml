@@ -1,0 +1,9 @@
+basic:
+  description: Topic Description(QA environment)
+  name: Topic Name(QA environment)
+logging:
+  level:
+    org:
+      springframework: INFO
+server:
+  port: 8090
